@@ -1,4 +1,4 @@
-# XRayR-Docker-dev
+# XRayR-Docker-dev 支持reality
 A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
@@ -16,7 +16,7 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 ## 特点
 
 * 永久开源且免费。
-* 支持V2ray，Trojan， Shadowsocks多种协议。
+* 支持V2ray，Trojan， Shadowsocks多种协议，支持reality。
 * 支持Vless和XTLS等新特性。
 * 支持单实例对接多面板、多节点，无需重复启动。
 * 支持限制在线IP
