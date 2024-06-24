@@ -5,9 +5,6 @@ A Xray backend framework that can easily support many panels.
 
 Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR)
 
-# 详细使用教程
-
-[教程](https://xrayr-project.github.io/XrayR-doc/)
 
 ## 免责声明
 
@@ -60,10 +57,16 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 
 
 # Docker compose 安装
-0. 安装docker-compose: 
+确保已经安装好 docker-compose: 
 ```
-1.git clone https://github.com/XrayR-project/XrayR-release
+1.git clone [https://github.com/XrayR-project/XrayR-release](https://github.com/luowei729/XrayR-Docker-dev.git)
 2.cd XrayR-release
 3.编辑配置文件：config.yml，详见：配置文件说明
 4.启动docker：docker-compose up -d
+
+
+# 详细使用教程
+
+[教程](https://xrayr-project.github.io/XrayR-doc/)
+
 
