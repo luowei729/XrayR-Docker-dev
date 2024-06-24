@@ -13,7 +13,8 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 ## 特点
 
 * 永久开源且免费。
-* 支持V2ray，Trojan， Shadowsocks多种协议，支持reality(  将config/config.yml中的2项改成true即可    EnableREALITY: true    DisableLocalREALITYConfig: true )。
+* 支持V2ray，Trojan， Shadowsocks多种协议.
+* 支持reality(  将config/config.yml中的2项改成true即可  EnableREALITY: true  DisableLocalREALITYConfig: true )。
 * 支持Vless和XTLS等新特性。
 * 支持单实例对接多面板、多节点，无需重复启动。
 * 支持限制在线IP
